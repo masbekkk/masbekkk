@@ -16,8 +16,6 @@ I'm currently active contributing as iOS Developer at <href="https://appledevelo
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="Swift" src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white" />
 </p>
-  <br>
-  <br>
   
 ### Github Statistic
 <p align="left">
