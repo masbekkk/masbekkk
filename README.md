@@ -4,7 +4,7 @@ An independent Software Engineer who loves to create and share projects about we
 
 I'm currently active contributing as iOS Developer at <a href="https://appledeveloperacademy.uc.ac.id/">@uc_appledeveloperacademy</a> to build applications in Apple Platforms (iOS, WatchOS and MacOS) and Back-End Service.
 
-- 🔭 I’m currently working on <href="https://appledeveloperacademy.uc.ac.id/">@uc_appledeveloperacademy</a>
+- 🔭 I’m currently working on <a href="https://appledeveloperacademy.uc.ac.id/">@uc_appledeveloperacademy</a>
 - 🌱 I’m currently learning about Apple technology, Laravel, JavaScript as Backend Services
 - 💬 Feel free to ask me about web development and iOS development or simply SwiftUI, Laravel and JavaScript
 - 📫 How to reach me: contact@masbek.my.id
