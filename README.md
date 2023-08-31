@@ -8,7 +8,7 @@ I'm currently active contributing as iOS Developer at <a href="https://appledeve
 - 🌱 I’m currently learning about Apple technology, Laravel, JavaScript as Backend Services
 - 💬 Feel free to ask me about web development and iOS development or simply SwiftUI, Laravel and JavaScript
 - 📫 How to reach me: contact@masbek.my.id
-- ⚡ Fun fact: Love Seafood
+- ⚡ Fun fact: Seafood
 
 ### Tech Stack
   <p>
