@@ -36,7 +36,5 @@ I'm currently active contributing as iOS Developer at <a href="https://appledeve
   <a href="https://instagram/subkhaaan13" target="_blank">
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://masbek.my.id" target="_blank">
-    <img alt="Web" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
-  </a>
+
 </p>
