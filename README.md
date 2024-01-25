@@ -2,8 +2,6 @@
 
 An independent Software Engineer who loves to create and share projects about web and iOS technology! I've enjoyed PHP and Swift and make it the main language in creating a project.
 
-I'm currently active contributing as iOS Developer at <a href="https://appledeveloperacademy.uc.ac.id/">@uc_appledeveloperacademy</a> to build applications in Apple Platforms (iOS, WatchOS and MacOS) and Back-End Service.
-
 - 🔭 I was graduated from <a href="https://appledeveloperacademy.uc.ac.id/">@uc_appledeveloperacademy</a> Cohort 2023
 - 🌱 I’m currently learning about Apple technology, Laravel, JavaScript as Backend Services
 - 💬 Feel free to ask me about web development and iOS development or simply SwiftUI, Laravel and JavaScript
