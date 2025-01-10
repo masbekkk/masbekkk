@@ -7,8 +7,9 @@ An independent Software Engineer who loves to create and share projects about we
 - 💬 Feel free to ask me about web development and iOS development or simply SwiftUI, Laravel and JavaScript
 - 📫 How to reach me: contact@masbek.my.id
 - ⚡ Fun fact: Love Seafood
-![Profile views](https://komarev.com/ghpvc/?username=masbekkk&color=gray)
+- ![Profile views](https://komarev.com/ghpvc/?username=masbekkk&color=gray)
 ![](https://hit.yhype.me/github/profile?user_id=51844971)
+- Total PRs: <!-- TOTAL_PRS -->
 
 ### Tech Stack
   <p>
