@@ -1,0 +1,34 @@
+name: Update Total PR Count
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Run daily
+  workflow_dispatch:
+
+jobs:
+  update-prs:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Fetch Total PR Count
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          echo "Fetching total PR count for masbekkk..."
+          TOTAL_PRS=$(curl -s -H "Authorization: token $GITHUB_TOKEN" \
+            "https://api.github.com/search/issues?q=is:pr+author:masbekkk" | jq '.total_count')
+          echo "Total PRs: $TOTAL_PRS"
+          
+          # Update README.md
+          sed -i "/<!-- TOTAL_PRS -->/c\\Total PRs: $TOTAL_PRS <!-- TOTAL_PRS -->" README.md
+
+      - name: Commit Changes
+        run: |
+          git config --local user.name "Mohammad Subkhan"
+          git config --local user.email "subkhanpinter22@gmail.com"
+          git add README.md
+          git commit -m "Update total PR count"
+          git push
