@@ -7,6 +7,8 @@ An independent Software Engineer who loves to create and share projects about we
 - 💬 Feel free to ask me about web development and iOS development or simply SwiftUI, Laravel and JavaScript
 - 📫 How to reach me: contact@masbek.my.id
 - ⚡ Fun fact: Love Seafood
+![Profile views](https://komarev.com/ghpvc/?username=masbekkk&color=gray)
+![](https://hit.yhype.me/github/profile?user_id=51844971)
 
 ### Tech Stack
   <p>
@@ -16,12 +18,9 @@ An independent Software Engineer who loves to create and share projects about we
 </p>
   
 ### Github Statistic
-<p align="left">
-<a href="https://github.com/masbekkk">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=masbekkk&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=masbekkk&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
+<a href="https://github.com/masbekkk?tab=repositories&q=&type=&language=&sort=stargazers"><img height="154" src="https://github-readme-stats.vercel.app/api?username=masbekkk&show_icons=true&theme=react&count_private=true&hide=contribs" /></a>
+  <img height="154" src="https://github-readme-stats.vercel.app/api/top-langs/?username=masbekkk&layout=compact&theme=react&langs_count=6" />
+  <a href="https://wakatime.com/@masbekkk"><img height="150" src="https://github-readme-stats.vercel.app/api/wakatime?username=masbekkk&layout=compact&theme=react&langs_count=6" /></a>
 
 ### Reach me on
 <p>
