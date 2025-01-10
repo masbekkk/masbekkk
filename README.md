@@ -18,7 +18,7 @@ An independent Software Engineer who loves to create and share projects about we
 </p>
   
 ### Github Statistic
-<a href="https://github.com/masbekkk?tab=repositories&q=&type=&language=&sort=stargazers"><img height="154" src="https://github-readme-stats.vercel.app/api?username=masbekkk&show_icons=true&theme=react&count_private=true&hide=contribs" /></a>
+<a href="https://github.com/masbekkk?tab=repositories&q=&type=&language=&sort=stargazers"><img height="154" src="https://github-readme-stats.vercel.app/api?username=masbekkk&show_icons=true&theme=react&count_private=true" /></a>
   <img height="154" src="https://github-readme-stats.vercel.app/api/top-langs/?username=masbekkk&layout=compact&theme=react&langs_count=6" />
   <a href="https://wakatime.com/@masbekkk"><img height="150" src="https://github-readme-stats.vercel.app/api/wakatime?username=masbekkk&layout=compact&theme=react&langs_count=6" /></a>
 
