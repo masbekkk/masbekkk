@@ -15,7 +15,7 @@ jobs:
 
       - name: Fetch Total PR Count
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.PAT_GITHUB_TOKEN }}
         run: |
           echo "Fetching total PR count for masbekkk..."
           TOTAL_PRS=$(curl -s -H "Authorization: token $GITHUB_TOKEN" \
