@@ -5,7 +5,7 @@ An independent Software Engineer who loves to create and share projects about we
 - 🔭 I was graduated from <a href="https://appledeveloperacademy.uc.ac.id/">@uc_appledeveloperacademy</a> Cohort 2023
 - 🌱 I’m currently learning about Apple technology, Laravel, JavaScript as Backend Services
 - 💬 Feel free to ask me about web development and iOS development or simply SwiftUI, Laravel and JavaScript
-- 📫 How to reach me: contact@masbek.my.id
+- 📫 How to reach me: iclodmasbek@gmail.com
 - ⚡ Fun fact: Love Seafood
 - ![Profile views](https://komarev.com/ghpvc/?username=masbekkk&color=gray)
 ![](https://hit.yhype.me/github/profile?user_id=51844971)
