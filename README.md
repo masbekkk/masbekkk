@@ -3,8 +3,8 @@
 An independent Software Engineer who loves to create and share projects about web and iOS technology! I've enjoyed PHP and Swift and make it the main language in creating a project.
 
 - 🔭 I was graduated from <a href="https://appledeveloperacademy.uc.ac.id/">@uc_appledeveloperacademy</a> Cohort 2023
-- 🌱 I’m currently learning about Apple technology, Laravel, JavaScript as Backend Services
-- 💬 Feel free to ask me about web development and iOS development or simply SwiftUI, Laravel and JavaScript
+- 🌱 Software Engineer L2
+- 💬 Feel free to ask me about web development and iOS development or simply SwiftUI, Laravel and JavaScript, .NET, C#, C++
 - 📫 How to reach me: iclodmasbek@gmail.com
 - ⚡ Fun fact: Love Seafood
 - ![Profile views](https://komarev.com/ghpvc/?username=masbekkk&color=gray)
